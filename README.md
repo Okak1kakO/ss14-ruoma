@@ -1,14 +1,11 @@
-<p align="center">
-    <img alt="PARSEC" width="1024" height="228" src="https://github.com/user-attachments/assets/9ace4710-8c72-4c2f-9bc7-765c3e7908d1" />
-</p>
-
 Space Station 14 это ремейк SS13, который работает на собственном движке [Robust Toolbox](https://github.com/space-wizards/RobustToolbox), написанном на C#.
 
 Это репозиторий первого русскоязычного сервера по Space Station 14, целью которого является полный перевод игры на русский язык, поддержка актуальных изменений из основного репозитория, а так же добавление собственных изменений по необходимости.
 
+Это репозиторий печально известного проекта Parsec. Мне нравилось там играть, но после долгого ухода, по возращению я узнаю, что сервер больше не работает, так что не имея должного опыта в хостинге и прочего в этой сфере я попытаюсь воскресить сервер, благо лицензия позволяет это сделать.
 ## Ссылки
 
-[Наш Discord](https://discord.ss14.su) | [Наша Вики](https://wiki.ss14.su) | [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Клиент без Steam](https://spacestation14.io/about/nightlies/) | [Основной репозиторий](https://github.com/space-wizards/space-station-14)
+[Дискорд печально известного Parseca Discord](https://discord.ss14.su) | [Наш Discord] | [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Клиент без Steam](https://spacestation14.io/about/nightlies/) | [Основной репозиторий](https://github.com/space-wizards/space-station-14)
 
 ## Документация
 
@@ -16,7 +13,7 @@ Space Station 14 это ремейк SS13, который работает на 
 
 ## Контрибьют
 
-В случае если вы хотите добавить новый контент будет лучше, если сначала вы предложите его в [основной репозиторий](https://github.com/space-wizards/space-station-14) или обсудите его необходимость на нашем сервере [Discord](https://discord.station13.ru).
+Тут, что-то да будет
 
 ## Сборка
 
